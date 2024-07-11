@@ -12,6 +12,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    
+    - name: Display Docker Images to be Pulled
+      run: echo "The following Docker images will be pulled:"
+
     - name: Checkout repository
       uses: actions/checkout@v4
 
