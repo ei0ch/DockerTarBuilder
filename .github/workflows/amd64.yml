@@ -13,7 +13,7 @@ jobs:
 
     steps:
     
-    - name: Display Docker Images to be Pulled
+    - name: Display Docker Images to be Pulled  ${{ github.event.inputs.docker_images }}
       run: echo "The following Docker images will be pulled:"
 
     - name: Checkout repository
