@@ -18,7 +18,7 @@ https://wkdaily.cpolar.top/archives/gc
 > 增加了新的工作流<br>
 > 可以将docker镜像转存到自己项目的Github Release文件里<br>
 
-> [![Github](https://img.shields.io/badge/RELEASE:DockerTarBuilder-123456?logo=github&logoColor=fff&labelColor=green&style=for-the-badge)](https://github.com/wukongdaily/DockerTarBuilder/releases)<br>
+> [![Github](https://img.shields.io/badge/RELEASE:DockerTarBuilder-123456?logo=github&logoColor=fff&labelColor=green&style=for-the-badge)](https://github.com/ei0ch/DockerTarBuilder/releases)<br>
 
 > 如果Github Release文件下载缓慢 你可以在<br>         
 
